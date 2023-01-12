@@ -1,6 +1,6 @@
 # Landing page-portfolio
 It is a single page website made using HTML , CSS and JavaScript in a Introduction to Web development Course from coursera hosted by IBM.
-
+My portfoilio looks like this...
 ![profile_name](https://user-images.githubusercontent.com/110487270/212084774-a0678905-24d1-42b6-94be-7e27dcc14fb5.png)
 ![aboutme](https://user-images.githubusercontent.com/110487270/212084827-fd0f6336-1def-4e96-99d0-730bf08285a6.png)
 ![skills](https://user-images.githubusercontent.com/110487270/212084864-5e9a2737-ae80-407a-92dc-1b59cb685142.png)
